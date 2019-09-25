@@ -2,7 +2,7 @@
  "resume"
  (lambda ()
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("geometry" "left=0.4in" "top=0.4in" "right=0.4in" "bottom=0.4in")))
+                     '(("geometry" "left=0.3in" "top=0.3in" "right=0.3in" "bottom=0.3in")))
    (TeX-run-style-hooks
     "latex2e"
     "resume10"
