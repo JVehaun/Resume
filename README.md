@@ -2,6 +2,6 @@ You continually forget how the heck to update your resume as a PDF, so here's th
 
 execute the following
 ```
-pdflatex resume.txt
+pdflatex resume.tex
 ```
 
